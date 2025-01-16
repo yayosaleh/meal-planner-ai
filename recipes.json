@@ -1,0 +1,543 @@
+[
+  {
+    "id": "1103f0e1-3021-8096-a3c8-cedc90a708cd",
+    "name": "Coconut Chickpea Curry",
+    "numDays": 1,
+    "servings": 5,
+    "adjustedServings": 5,
+    "formatted": false,
+    "ingredientSections": [
+      {
+        "name": null,
+        "ingredients": [
+          {
+            "name": "olive oil",
+            "measurement": {
+              "unit": "ml",
+              "value": 40
+            },
+            "note": null
+          },
+          {
+            "name": "yellow onion",
+            "measurement": {
+              "unit": "qty",
+              "value": 2
+            },
+            "note": "diced"
+          },
+          {
+            "name": "red bell pepper",
+            "measurement": {
+              "unit": "qty",
+              "value": 2
+            },
+            "note": "thinly sliced"
+          },
+          {
+            "name": "garlic clove",
+            "measurement": {
+              "unit": "qty",
+              "value": 6
+            },
+            "note": "minced"
+          },
+          {
+            "name": "ground cumin",
+            "measurement": {
+              "unit": "g",
+              "value": 15
+            },
+            "note": null
+          },
+          {
+            "name": "paprika",
+            "measurement": {
+              "unit": "g",
+              "value": 12
+            },
+            "note": null
+          },
+          {
+            "name": "red chilli powder",
+            "measurement": {
+              "unit": "g",
+              "value": 2.5
+            },
+            "note": "optional"
+          },
+          {
+            "name": "vegetable stock",
+            "measurement": {
+              "unit": "ml",
+              "value": 180
+            },
+            "note": "chicken stock as alternative"
+          },
+          {
+            "name": "diced tomatoes",
+            "measurement": {
+              "unit": "g",
+              "value": 600
+            },
+            "note": null
+          },
+          {
+            "name": "brown sugar",
+            "measurement": {
+              "unit": "g",
+              "value": 35
+            },
+            "note": null
+          },
+          {
+            "name": "coconut milk",
+            "measurement": {
+              "unit": "ml",
+              "value": 500
+            },
+            "note": null
+          },
+          {
+            "name": "chickpea",
+            "measurement": {
+              "unit": "g",
+              "value": 1000
+            },
+            "note": "drained"
+          },
+          {
+            "name": "baby spinach",
+            "measurement": {
+              "unit": "g",
+              "value": 120
+            },
+            "note": "washed"
+          },
+          {
+            "name": "seasoning",
+            "measurement": null,
+            "note": "to taste"
+          }
+        ]
+      },
+      {
+        "name": "Jasmine Rice",
+        "ingredients": [
+          {
+            "name": "jasmine rice",
+            "measurement": {
+              "unit": "g",
+              "value": 350
+            },
+            "note": "washed"
+          },
+          {
+            "name": "water",
+            "measurement": {
+              "unit": "ml",
+              "value": 550
+            },
+            "note": "cold"
+          },
+          {
+            "name": "kaffir lime leaf",
+            "measurement": {
+              "unit": "qty",
+              "value": 4
+            },
+            "note": "optional, can be substituted with zest of 1 lime"
+          },
+          {
+            "name": "salt",
+            "measurement": null,
+            "note": "to taste"
+          }
+        ]
+      },
+      {
+        "name": "Garnish",
+        "ingredients": [
+          {
+            "name": "natural greek yogurt",
+            "measurement": {
+              "unit": "g",
+              "value": 50
+            },
+            "note": null
+          },
+          {
+            "name": "lime",
+            "measurement": null,
+            "note": "wedge to serve"
+          },
+          {
+            "name": "coriander",
+            "measurement": null,
+            "note": "cilantro to serve"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1103f0e1-3021-80b9-b0c9-e9b30b2c15bf",
+    "name": "Beef Stir Fry",
+    "numDays": 1,
+    "servings": 5,
+    "adjustedServings": 5,
+    "formatted": false,
+    "ingredientSections": [
+      {
+        "name": "Jasmine Rice",
+        "ingredients": [
+          {
+            "name": "jasmine rice",
+            "measurement": {
+              "unit": "g",
+              "value": 400
+            },
+            "note": "washed"
+          },
+          {
+            "name": "water",
+            "measurement": {
+              "unit": "ml",
+              "value": 600
+            },
+            "note": "cold"
+          },
+          {
+            "name": "lemongrass",
+            "measurement": {
+              "unit": "qty",
+              "value": 1
+            },
+            "note": "stalk, bruised, optional"
+          },
+          {
+            "name": "kaffir lime leaf",
+            "measurement": {
+              "unit": "qty",
+              "value": 4
+            },
+            "note": "optional"
+          },
+          {
+            "name": "salt",
+            "measurement": null,
+            "note": "to taste"
+          }
+        ]
+      },
+      {
+        "name": "Pepper Beef Stir Fry",
+        "ingredients": [
+          {
+            "name": "peanut oil",
+            "measurement": {
+              "unit": "ml",
+              "value": 20
+            },
+            "note": "divided, see notes for allergies"
+          },
+          {
+            "name": "red bell pepper",
+            "measurement": {
+              "unit": "qty",
+              "value": 1
+            },
+            "note": null
+          },
+          {
+            "name": "green bell pepper",
+            "measurement": {
+              "unit": "qty",
+              "value": 1
+            },
+            "note": null
+          },
+          {
+            "name": "baby bok choy",
+            "measurement": {
+              "unit": "qty",
+              "value": 3
+            },
+            "note": "chopped, leaves separated"
+          },
+          {
+            "name": "beef fillet",
+            "measurement": {
+              "unit": "g",
+              "value": 600
+            },
+            "note": "or protein of choice, stripped"
+          },
+          {
+            "name": "ginger",
+            "measurement": {
+              "unit": "g",
+              "value": 20
+            },
+            "note": "peeled, minced"
+          },
+          {
+            "name": "garlic clove",
+            "measurement": {
+              "unit": "qty",
+              "value": 5
+            },
+            "note": "minced"
+          },
+          {
+            "name": "salt",
+            "measurement": null,
+            "note": "to taste, optional"
+          }
+        ]
+      },
+      {
+        "name": "Chilli Soy Sauce",
+        "ingredients": [
+          {
+            "name": "low sodium soy sauce",
+            "measurement": {
+              "unit": "ml",
+              "value": 125
+            },
+            "note": null
+          },
+          {
+            "name": "brown sugar",
+            "measurement": {
+              "unit": "g",
+              "value": 30
+            },
+            "note": null
+          },
+          {
+            "name": "sriracha sauce",
+            "measurement": {
+              "unit": "g",
+              "value": 30
+            },
+            "note": "chilli sauce as alternative"
+          },
+          {
+            "name": "toasted sesame oil",
+            "measurement": {
+              "unit": "ml",
+              "value": 10
+            },
+            "note": null
+          },
+          {
+            "name": "corn flour",
+            "measurement": {
+              "unit": "g",
+              "value": 12
+            },
+            "note": null
+          },
+          {
+            "name": "black pepper",
+            "measurement": {
+              "unit": "qty",
+              "value": 30
+            },
+            "note": "cracks"
+          },
+          {
+            "name": "salt",
+            "measurement": null,
+            "note": "to taste, optional"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1083f0e1-3021-808e-8f8b-f235fe2b83c6",
+    "name": "Teriyaki Chicken Bowl",
+    "numDays": 1,
+    "servings": 5,
+    "adjustedServings": 5,
+    "formatted": false,
+    "ingredientSections": [
+      {
+        "name": "Teriyaki Chicken",
+        "ingredients": [
+          {
+            "name": "soy sauce",
+            "measurement": {
+              "unit": "ml",
+              "value": 100
+            },
+            "note": null
+          },
+          {
+            "name": "rice vinegar",
+            "measurement": {
+              "unit": "ml",
+              "value": 50
+            },
+            "note": null
+          },
+          {
+            "name": "brown sugar",
+            "measurement": {
+              "unit": "g",
+              "value": 50
+            },
+            "note": null
+          },
+          {
+            "name": "water",
+            "measurement": {
+              "unit": "ml",
+              "value": 300
+            },
+            "note": null
+          },
+          {
+            "name": "sesame oil",
+            "measurement": {
+              "unit": "tsp",
+              "value": 2
+            },
+            "note": null
+          },
+          {
+            "name": "garlic",
+            "measurement": {
+              "unit": "tsp",
+              "value": 2
+            },
+            "note": "minced"
+          },
+          {
+            "name": "ginger",
+            "measurement": {
+              "unit": "tsp",
+              "value": 2
+            },
+            "note": "minced"
+          },
+          {
+            "name": "sesame seed",
+            "measurement": {
+              "unit": "tbsp",
+              "value": 1
+            },
+            "note": null
+          },
+          {
+            "name": "avocado oil",
+            "measurement": {
+              "unit": "g",
+              "value": 13.6
+            },
+            "note": null
+          },
+          {
+            "name": "chicken breast",
+            "measurement": {
+              "unit": "g",
+              "value": 1200
+            },
+            "note": null
+          }
+        ]
+      },
+      {
+        "name": "Jasmine Rice",
+        "ingredients": [
+          {
+            "name": "jasmine rice",
+            "measurement": {
+              "unit": "g",
+              "value": 300
+            },
+            "note": "washed"
+          },
+          {
+            "name": "water",
+            "measurement": {
+              "unit": "g",
+              "value": 500
+            },
+            "note": null
+          }
+        ]
+      },
+      {
+        "name": "Sautéed Broccolini",
+        "ingredients": [
+          {
+            "name": "avocado oil",
+            "measurement": {
+              "unit": "g",
+              "value": 13.5
+            },
+            "note": null
+          },
+          {
+            "name": "broccolini",
+            "measurement": {
+              "unit": "g",
+              "value": 400
+            },
+            "note": "ends trimmed"
+          },
+          {
+            "name": "sesame oil",
+            "measurement": {
+              "unit": "tsp",
+              "value": 2
+            },
+            "note": null
+          },
+          {
+            "name": "sesame seed",
+            "measurement": {
+              "unit": "tbsp",
+              "value": 1
+            },
+            "note": "garnish"
+          },
+          {
+            "name": "spring onion",
+            "measurement": {
+              "unit": "qty",
+              "value": 2
+            },
+            "note": "garnish"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "faea550c-1554-4a99-8816-f5ef312df418",
+    "name": "Protein Bar",
+    "numDays": 5,
+    "servings": 1,
+    "adjustedServings": 5,
+    "formatted": false,
+    "ingredientSections": [
+      {
+        "name": null,
+        "ingredients": [
+          {
+            "name": "protein bar",
+            "measurement": {
+              "unit": "qty",
+              "value": 1
+            },
+            "note": null
+          }
+        ]
+      }
+    ]
+  }
+]

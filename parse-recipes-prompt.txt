@@ -1,0 +1,19 @@
+Extract the ingredient information from the recipes. For each recipe, ensure all ingredients are recorded in the original order, including vague items (e.g., "seasoning to taste") and repeated ingredients. If multiple unique ingredients appear on the same line of an ingredient list (e.g., “salt & pepper”), record them separately. Ingredient names, measurement units, and notes must be lowercase with no trailing spaces. Ingredient section names must be in title case.
+
+**Ingredient Measurement Guidelines:**
+
+Use the most common abbreviations for measurement units (e.g., grams must be recorded as ‘g’). If an ingredient is measured by quantity, record its measurement unit as ‘qty’.
+
+If multiple measurements are provided for the same ingredient, always choose the metric one if available.
+
+It is acceptable for the same ingredient to be measured in different units within the same recipe and across recipes. Do not perform unit conversions. Do not change the ingredient measurements to reflect the adjusted serving size or number of days.
+
+**Ingredient Name Guidelines:**
+
+All ingredient names must be in the singular form.
+
+If an alternative is provided for an ingredient, choose the most common version. If both are equally common, chose the healthier version. In such cases, record the unchosen alternative ingredient(s) as a note.
+
+It is imperative to avoid differences in the name of the same ingredient across multiple recipes. Only include the most basic version of the ingredient name (e.g., “Garlic Cloves, Minced” becomes “garlic clove”, “Bell Peppers (Capsicums), Large Diced (Any Colour Is Fine)” becomes “bell pepper”, etc.). For ingredients with regionally-dependent names, always use the American version of the ingredient name (e.g., “aubergine” becomes “eggplant”, “beef mince” becomes “ground beef”, “brown onion” becomes “yellow onion”, etc.).
+
+Ensure that ingredient names are recorded in a way that can be written on a grocery list (e.g., “lime wedge” should be recorded as “lime” with “wedge” being recorded as a note).
