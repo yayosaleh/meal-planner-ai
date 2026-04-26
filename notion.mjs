@@ -12,6 +12,44 @@ const notion = new Client({ auth: process.env.NOTION_API_KEY });
 const databaseId = process.env.NOTION_DATABASE_ID;
 const parentPageId = process.env.NOTION_PAGE_ID;
 
+function buildGroceryListBlocks(groceryList) {
+  const categoryHeadingPattern = /^\p{Extended_Pictographic}\s/u;
+
+  return groceryList
+    .split("\n")
+    .map((line) => line.trim())
+    .filter(Boolean)
+    .map((line) => {
+      const richText = [
+        {
+          type: "text",
+          text: {
+            content: line,
+          },
+        },
+      ];
+
+      if (categoryHeadingPattern.test(line)) {
+        return {
+          object: "block",
+          type: "heading_2",
+          heading_2: {
+            rich_text: richText,
+          },
+        };
+      }
+
+      return {
+        object: "block",
+        type: "to_do",
+        to_do: {
+          rich_text: richText,
+          checked: false,
+        },
+      };
+    });
+}
+
 // Returns stringified list of recipe objects loaded from Notion database
 export async function loadRecipes() {
   try {
@@ -98,6 +136,7 @@ export async function updateRecipes(recipes) {
 export async function createGroceryListPage(groceryList) {
   try {
     const currentDate = format(new Date(), "MMMM dd, yyyy");
+    const groceryListBlocks = buildGroceryListBlocks(groceryList);
 
     await notion.pages.create({
       parent: { page_id: parentPageId },
@@ -111,22 +150,7 @@ export async function createGroceryListPage(groceryList) {
           },
         ],
       },
-      children: [
-        {
-          object: "block",
-          type: "paragraph",
-          paragraph: {
-            rich_text: [
-              {
-                type: "text",
-                text: {
-                  content: groceryList,
-                },
-              },
-            ],
-          },
-        },
-      ],
+      children: groceryListBlocks,
     });
 
     console.log("Notion grocery list page created successfully");
