@@ -4,12 +4,16 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
+    "start": "node index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
+  "overrides": {
+    "form-data": "^4.0.4"
+  },
   "dependencies": {
     "@notionhq/client": "^2.2.15",
     "date-fns": "^4.1.0",
